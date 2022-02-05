@@ -1,0 +1,3659 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>simthoV2</corpus>
+  <subcorpus></subcorpus>
+  <query>
+    <subquery operation="Query" size="315">[word=&quot;ܐܢܢܩܝ&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="">
+    <item>
+      <str attribute="doc.id">SynWestSyr</str>
+      <freq>92</freq>
+      <rel>1908.30000</rel>
+      <fpm>5.72847</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarEbr:CandSanc</str>
+      <freq>82</freq>
+      <rel>1330.20000</rel>
+      <fpm>5.10581</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarṢal:ComGosp</str>
+      <freq>52</freq>
+      <rel>611.20000</rel>
+      <fpm>3.23783</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarEbr:LampSanc</str>
+      <freq>37</freq>
+      <rel>1036.70000</rel>
+      <fpm>2.30384</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">Chron1234</str>
+      <freq>6</freq>
+      <rel>89.20000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">JnDara:OnOfferings</str>
+      <freq>4</freq>
+      <rel>1235.90000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">KalDim</str>
+      <freq>3</freq>
+      <rel>195.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">AnṭTagr:FifBookRhet</str>
+      <freq>3</freq>
+      <rel>795.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">ZachSch:ActsSev</str>
+      <freq>2</freq>
+      <rel>263.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">SevAnt:Epist</str>
+      <freq>2</freq>
+      <rel>63.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">SevAnt:CathHom</str>
+      <freq>2</freq>
+      <rel>12.70000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">Ps-Zach:EccHist</str>
+      <freq>2</freq>
+      <rel>50.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">Ps-GeorgArb:ComLiturgRit</str>
+      <freq>2</freq>
+      <rel>50.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">Pall:LausHist</str>
+      <freq>2</freq>
+      <rel>114.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">IsaacAnt:Memre</str>
+      <freq>2</freq>
+      <rel>72.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarShush:EpCathoArm</str>
+      <freq>2</freq>
+      <rel>1188.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarEbr:Ethic</str>
+      <freq>2</freq>
+      <rel>442.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">SevSeb:InhabUnihabEarth</str>
+      <freq>1</freq>
+      <rel>3486.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">PhiloxMab:TenMem</str>
+      <freq>1</freq>
+      <rel>20.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">JnRufus:LifePetIber</str>
+      <freq>1</freq>
+      <rel>168.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">JnMaron:Expos</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">JnDalya:Epist</str>
+      <freq>1</freq>
+      <rel>84.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">EliasGM:CriesHeart</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">ComAscet</str>
+      <freq>1</freq>
+      <rel>342.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarṢal:LuqArabs</str>
+      <freq>1</freq>
+      <rel>155.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarṢal:ComLiturg</str>
+      <freq>1</freq>
+      <rel>215.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarKepha:ComBap</str>
+      <freq>1</freq>
+      <rel>1839.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarEbr:ScholMatt</str>
+      <freq>1</freq>
+      <rel>265.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarEbr:BkPoems</str>
+      <freq>1</freq>
+      <rel>176.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">BarBahl:SyrLex</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">AthAl:EpFest</str>
+      <freq>1</freq>
+      <rel>149.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">ActsSlaveChrist</str>
+      <freq>1</freq>
+      <rel>871.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">ActsMiaphysites</str>
+      <freq>1</freq>
+      <rel>263.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">AMS4</str>
+      <freq>1</freq>
+      <rel>38.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.id">AMS1</str>
+      <freq>1</freq>
+      <rel>48.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.OutOfCopyright">No</str>
+      <freq>265</freq>
+      <rel>159.10000</rel>
+      <fpm>16.50048</fpm>
+    </item>
+    <item>
+      <str attribute="doc.OutOfCopyright">Yes</str>
+      <freq>50</freq>
+      <rel>33.70000</rel>
+      <fpm>3.11330</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.PermissionToUse">-</str>
+      <freq>315</freq>
+      <rel>100.00000</rel>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.MultivolumeWork">Yes</str>
+      <freq>243</freq>
+      <rel>196.80000</rel>
+      <fpm>15.13063</fpm>
+    </item>
+    <item>
+      <str attribute="doc.MultivolumeWork">No</str>
+      <freq>72</freq>
+      <rel>37.60000</rel>
+      <fpm>4.48315</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.WorkingTitle">The Synodicon in the West Syrian Tradition</str>
+      <freq>46</freq>
+      <rel>1908.30000</rel>
+      <fpm>2.86423</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary</str>
+      <freq>41</freq>
+      <rel>1329.50000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Lamp of the Sanctuary</str>
+      <freq>37</freq>
+      <rel>1036.70000</rel>
+      <fpm>2.30384</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Synodicon in the West Syrian Tradition I</str>
+      <freq>35</freq>
+      <rel>2907.10000</rel>
+      <fpm>2.17931</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Dionysios bar Ṣalibi. Commentary on the Gospels.</str>
+      <freq>26</freq>
+      <rel>505.50000</rel>
+      <fpm>1.61891</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary (III: On Theology)</str>
+      <freq>21</freq>
+      <rel>4145.30000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Dionysios bar Ṣalibi. Commentary on the Gospels I, 2.</str>
+      <freq>20</freq>
+      <rel>1628.80000</rel>
+      <fpm>1.24532</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary (IV: On the Incarnation)</str>
+      <freq>12</freq>
+      <rel>1906.00000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Synodicon in the West Syrian Tradition II</str>
+      <freq>11</freq>
+      <rel>911.60000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary (IX: On Free Will)</str>
+      <freq>4</freq>
+      <rel>1082.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The 'On Offerings' of John of Dara</str>
+      <freq>4</freq>
+      <rel>1235.90000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Fifth Book of the Rhetoric of Antony of Tagrit</str>
+      <freq>3</freq>
+      <rel>795.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Book of Kalilah and Dimnah: Translated from Arabic into Syriac</str>
+      <freq>3</freq>
+      <rel>195.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Commentaries on the Gospels (II.2)</str>
+      <freq>3</freq>
+      <rel>307.00000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Commentaries on the Gospels (II.1)</str>
+      <freq>3</freq>
+      <rel>258.80000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Chronicle until 1234</str>
+      <freq>3</freq>
+      <rel>89.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Letter of the Patriarch Barschushan to the Catholicus of the Armenians</str>
+      <freq>2</freq>
+      <rel>1188.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary (XI: On the Last Judgment)</str>
+      <freq>2</freq>
+      <rel>685.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Candelabrum of the Sanctuary (V: On Angels)</str>
+      <freq>2</freq>
+      <rel>865.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Homilies of Isaac of Antioch</str>
+      <freq>2</freq>
+      <rel>72.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Gregory Barhebraeus. Ethicon (Mēmrā I)</str>
+      <freq>2</freq>
+      <rel>442.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Ecclesiastical History by Pseudo-Zahcharias</str>
+      <freq>2</freq>
+      <rel>50.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Commentary on the Liturgical Rites</str>
+      <freq>2</freq>
+      <rel>64.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Chronicle until 1234 (Part One until 1130)</str>
+      <freq>2</freq>
+      <rel>121.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Syriac Lexicon Hasan Bar Bahlul</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Life of Severus by Zachariah of Mytilene</str>
+      <freq>1</freq>
+      <rel>265.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Letters of John of Dalyatha</str>
+      <freq>1</freq>
+      <rel>193.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The History of the 'Slave of Christ': From Jewish Child to Christian Martyr</str>
+      <freq>1</freq>
+      <rel>871.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Festal Letters of Athanasius</str>
+      <freq>1</freq>
+      <rel>149.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Cathedral Homilies of Severus of Antioch: Syriac Translation by Jacob of Edessa (Homilies 1-17)</str>
+      <freq>1</freq>
+      <rel>192.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">The Cathedral Homilies of Severus of Antioch: Syriac Translation by Jacob of Edessa</str>
+      <freq>1</freq>
+      <rel>12.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Stories of celebrated Miaphysites</str>
+      <freq>1</freq>
+      <rel>263.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Peter the Iberian: A Character Image of the Churches and Moral History of the Fifth Century</str>
+      <freq>1</freq>
+      <rel>168.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Moses Bar Kepha: Commentary on Baptism</str>
+      <freq>1</freq>
+      <rel>1839.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Life of Severus - First Part, according to Zacharias the Scholastic</str>
+      <freq>1</freq>
+      <rel>261.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Lausiac History I</str>
+      <freq>1</freq>
+      <rel>153.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Lausiac History</str>
+      <freq>1</freq>
+      <rel>114.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Holy Philoxenos Bishop of Mabbug. Ten dissertations. (Mêmrê against Habib). II. Dissertations 3a, 4a, 5a</str>
+      <freq>1</freq>
+      <rel>182.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Grigorios Bar ʿEbroyo: The Gospel of Matthew Scholia</str>
+      <freq>1</freq>
+      <rel>265.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Expositions by Yuḥanon Maron</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Dionysius bar Ṣalībī. A Response to the Arabs</str>
+      <freq>1</freq>
+      <rel>155.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Dionysios bar Ṣalibi. Commentary on the Liturgy.</str>
+      <freq>1</freq>
+      <rel>215.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Cries from the Heart: A Book of Poems and Essays</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Commentary on Abba Isaiah’s Asceticon</str>
+      <freq>1</freq>
+      <rel>342.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Chronicle until 1234 II</str>
+      <freq>1</freq>
+      <rel>58.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Book of Poems</str>
+      <freq>1</freq>
+      <rel>176.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Acts of Martyrs and Saints 4</str>
+      <freq>1</freq>
+      <rel>38.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">Acts of Martyrs and Saints 1</str>
+      <freq>1</freq>
+      <rel>48.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts II</str>
+      <freq>1</freq>
+      <rel>96.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts</str>
+      <freq>1</freq>
+      <rel>47.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.WorkingTitle">A Chapter on the Inhabited and Uninhabited Earth and About the Order of Those Who Dwell on Its Entire Circumference, Above and Below</str>
+      <freq>1</freq>
+      <rel>3486.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Author">Grigorios Bar ʿEbroyo</str>
+      <freq>123</freq>
+      <rel>1037.30000</rel>
+      <fpm>7.65871</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Anonymous</str>
+      <freq>90</freq>
+      <rel>182.50000</rel>
+      <fpm>5.60394</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Dionysios bar Ṣalibi</str>
+      <freq>54</freq>
+      <rel>508.80000</rel>
+      <fpm>3.36236</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Various</str>
+      <freq>13</freq>
+      <rel>62.00000</rel>
+      <fpm>0.80946</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Severus of Antioch</str>
+      <freq>4</freq>
+      <rel>12.00000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">John of Dara</str>
+      <freq>4</freq>
+      <rel>237.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Anṭun of Tagrit</str>
+      <freq>3</freq>
+      <rel>795.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">-</str>
+      <freq>3</freq>
+      <rel>20.60000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Zacharias Scholasticus/Rhetor (Zachariah of Mytilene)</str>
+      <freq>2</freq>
+      <rel>263.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Yuhanon X Išoʿ bar Shushan</str>
+      <freq>2</freq>
+      <rel>1188.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Pseudo-Zacharias</str>
+      <freq>2</freq>
+      <rel>49.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Pseudo-George of Arbela</str>
+      <freq>2</freq>
+      <rel>50.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Palladius</str>
+      <freq>2</freq>
+      <rel>114.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Isaac of Antioch</str>
+      <freq>2</freq>
+      <rel>72.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Ḥasan Bar Bahlul</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Severus Sebokht</str>
+      <freq>1</freq>
+      <rel>3486.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Philoxenos of Mabbug</str>
+      <freq>1</freq>
+      <rel>8.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Moshe Bar Kepha</str>
+      <freq>1</freq>
+      <rel>381.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">John of Dalyatha</str>
+      <freq>1</freq>
+      <rel>84.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">John Rufus</str>
+      <freq>1</freq>
+      <rel>90.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">John Maron</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Ghaṭṭās Maqdisī Elias</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Author">Athanasius of Alexandria</str>
+      <freq>1</freq>
+      <rel>32.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Translator">-</str>
+      <freq>313</freq>
+      <rel>107.10000</rel>
+      <fpm>19.48924</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Translator">Jacob of Edessa</str>
+      <freq>2</freq>
+      <rel>11.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Meter">-</str>
+      <freq>313</freq>
+      <rel>106.40000</rel>
+      <fpm>19.48924</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Meter">7-syllable</str>
+      <freq>2</freq>
+      <rel>19.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Genre">Prose</str>
+      <freq>303</freq>
+      <rel>142.30000</rel>
+      <fpm>18.86658</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Genre">Poetry</str>
+      <freq>10</freq>
+      <rel>12.70000</rel>
+      <fpm>0.62266</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Genre">Prose/Poetry</str>
+      <freq>1</freq>
+      <rel>6.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Genre">Lexica</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.GenreType">Writing</str>
+      <freq>83</freq>
+      <rel>625.80000</rel>
+      <fpm>5.16807</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Book of Synods</str>
+      <freq>81</freq>
+      <rel>1325.80000</rel>
+      <fpm>5.04354</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Commentary</str>
+      <freq>51</freq>
+      <rel>201.30000</rel>
+      <fpm>3.17556</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Theology</str>
+      <freq>41</freq>
+      <rel>619.40000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Various</str>
+      <freq>11</freq>
+      <rel>911.60000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Chronicle</str>
+      <freq>10</freq>
+      <rel>39.90000</rel>
+      <fpm>0.62266</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Bible Commentary</str>
+      <freq>7</freq>
+      <rel>55.00000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Narrative Poetry</str>
+      <freq>6</freq>
+      <rel>26.20000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Letter</str>
+      <freq>6</freq>
+      <rel>33.80000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Homily/Sermon</str>
+      <freq>4</freq>
+      <rel>8.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Acts</str>
+      <freq>4</freq>
+      <rel>29.40000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Martyr Acts</str>
+      <freq>3</freq>
+      <rel>14.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Legend</str>
+      <freq>3</freq>
+      <rel>111.70000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Treatise</str>
+      <freq>1</freq>
+      <rel>19.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Polemic</str>
+      <freq>1</freq>
+      <rel>7.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Pamphlet</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">Metrical Poems</str>
+      <freq>1</freq>
+      <rel>176.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.GenreType">-</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.SyriacGenre">ktābā</str>
+      <freq>84</freq>
+      <rel>521.20000</rel>
+      <fpm>5.23034</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">ktābā d-sūnohdū</str>
+      <freq>81</freq>
+      <rel>2241.00000</rel>
+      <fpm>5.04354</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">pušāqā</str>
+      <freq>58</freq>
+      <rel>288.80000</rel>
+      <fpm>3.61143</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">mēmrā</str>
+      <freq>49</freq>
+      <rel>57.30000</rel>
+      <fpm>3.05103</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">Various</str>
+      <freq>11</freq>
+      <rel>911.60000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">maktabzabnā</str>
+      <freq>7</freq>
+      <rel>35.40000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">tašʿitā</str>
+      <freq>6</freq>
+      <rel>35.80000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">egartā</str>
+      <freq>6</freq>
+      <rel>32.00000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">šarbā</str>
+      <freq>5</freq>
+      <rel>23.70000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">nuhārā</str>
+      <freq>3</freq>
+      <rel>16.80000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">ʾeskulyun</str>
+      <freq>1</freq>
+      <rel>50.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">tašʿitā/sāhduthā</str>
+      <freq>1</freq>
+      <rel>68.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">luqbal</str>
+      <freq>1</freq>
+      <rel>6.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">kūrāsā</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.SyriacGenre">-</str>
+      <freq>1</freq>
+      <rel>13.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Translation">-</str>
+      <freq>302</freq>
+      <rel>131.40000</rel>
+      <fpm>18.80432</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Translation">From Greek</str>
+      <freq>9</freq>
+      <rel>13.50000</rel>
+      <fpm>0.56039</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Translation">From Arabic</str>
+      <freq>3</freq>
+      <rel>129.90000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Translation">Partly From Greek</str>
+      <freq>1</freq>
+      <rel>12.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Medium">Printed Book</str>
+      <freq>315</freq>
+      <rel>100.00000</rel>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Period">13th c.</str>
+      <freq>129</freq>
+      <rel>635.20000</rel>
+      <fpm>8.03231</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">-</str>
+      <freq>92</freq>
+      <rel>519.20000</rel>
+      <fpm>5.72847</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">12th c.</str>
+      <freq>54</freq>
+      <rel>496.50000</rel>
+      <fpm>3.36236</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">9th c.</str>
+      <freq>11</freq>
+      <rel>64.30000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">6th c.</str>
+      <freq>8</freq>
+      <rel>13.40000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">7th-8th c.</str>
+      <freq>3</freq>
+      <rel>15.80000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">10th c.</str>
+      <freq>3</freq>
+      <rel>24.80000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">5th-7th c.</str>
+      <freq>2</freq>
+      <rel>110.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">5th-6th c.</str>
+      <freq>2</freq>
+      <rel>9.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">5th c.</str>
+      <freq>2</freq>
+      <rel>8.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">4th-7th c.</str>
+      <freq>2</freq>
+      <rel>10.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">11th c.</str>
+      <freq>2</freq>
+      <rel>374.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">8th c.</str>
+      <freq>1</freq>
+      <rel>7.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">7th-9th c.</str>
+      <freq>1</freq>
+      <rel>871.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">7th c.</str>
+      <freq>1</freq>
+      <rel>7.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">4th c.</str>
+      <freq>1</freq>
+      <rel>5.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Period">20th c.</str>
+      <freq>1</freq>
+      <rel>81.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Epoch">1250</str>
+      <freq>123</freq>
+      <rel>1037.30000</rel>
+      <fpm>7.65871</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">-</str>
+      <freq>92</freq>
+      <rel>519.20000</rel>
+      <fpm>5.72847</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">1150</str>
+      <freq>54</freq>
+      <rel>508.80000</rel>
+      <fpm>3.36236</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0850</str>
+      <freq>7</freq>
+      <rel>47.40000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">1234</str>
+      <freq>6</freq>
+      <rel>89.20000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0675</str>
+      <freq>5</freq>
+      <rel>18.10000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0825</str>
+      <freq>4</freq>
+      <rel>237.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0525</str>
+      <freq>4</freq>
+      <rel>29.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0950</str>
+      <freq>3</freq>
+      <rel>27.60000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">1050</str>
+      <freq>2</freq>
+      <rel>374.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0701</str>
+      <freq>2</freq>
+      <rel>12.70000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0575</str>
+      <freq>2</freq>
+      <rel>32.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0500</str>
+      <freq>2</freq>
+      <rel>5.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0450</str>
+      <freq>2</freq>
+      <rel>13.70000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">1994</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0875</str>
+      <freq>1</freq>
+      <rel>183.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0750</str>
+      <freq>1</freq>
+      <rel>26.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0700</str>
+      <freq>1</freq>
+      <rel>30.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0650</str>
+      <freq>1</freq>
+      <rel>37.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0550</str>
+      <freq>1</freq>
+      <rel>13.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Epoch">0350</str>
+      <freq>1</freq>
+      <rel>7.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Denomination">Syriac Orthodox</str>
+      <freq>296</freq>
+      <rel>224.90000</rel>
+      <fpm>18.43072</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Denomination">-</str>
+      <freq>13</freq>
+      <rel>13.10000</rel>
+      <fpm>0.80946</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Denomination">Church of the East</str>
+      <freq>5</freq>
+      <rel>7.50000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Denomination">Maronite</str>
+      <freq>1</freq>
+      <rel>70.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.DocumentType">OCR</str>
+      <freq>271</freq>
+      <rel>102.30000</rel>
+      <fpm>16.87407</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentType">Typed &amp; Proofed</str>
+      <freq>41</freq>
+      <rel>119.10000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentType">Typed, not Proofed</str>
+      <freq>3</freq>
+      <rel>19.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Transcriber">-</str>
+      <freq>275</freq>
+      <rel>101.10000</rel>
+      <fpm>17.12314</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Transcriber">Fr. Sabri Aydin</str>
+      <freq>40</freq>
+      <rel>554.30000</rel>
+      <fpm>2.49064</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Proofer">-</str>
+      <freq>277</freq>
+      <rel>98.60000</rel>
+      <fpm>17.24767</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Proofer">Dayroyo Elias Elia</str>
+      <freq>38</freq>
+      <rel>917.80000</rel>
+      <fpm>2.36611</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.DocumentSource">Qoruyo (Version Clocksin Beta 2019)</str>
+      <freq>258</freq>
+      <rel>147.00000</rel>
+      <fpm>16.06462</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentSource">Department of Syriac Studies, Syriac Orthodox Patriarchate</str>
+      <freq>38</freq>
+      <rel>852.70000</rel>
+      <fpm>2.36611</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentSource">Gorgias Press</str>
+      <freq>16</freq>
+      <rel>13.90000</rel>
+      <fpm>0.99626</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentSource">Fr. Sabri Aydin</str>
+      <freq>2</freq>
+      <rel>72.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocumentSource">Beth Mardutho</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.DocTagging">Automatic</str>
+      <freq>272</freq>
+      <rel>94.30000</rel>
+      <fpm>16.93634</fpm>
+    </item>
+    <item>
+      <str attribute="doc.DocTagging">Manual</str>
+      <freq>43</freq>
+      <rel>162.80000</rel>
+      <fpm>2.67744</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.POSTagging">None</str>
+      <freq>315</freq>
+      <rel>100.00000</rel>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Editor">Vööbus, Arthur</str>
+      <freq>92</freq>
+      <rel>1232.20000</rel>
+      <fpm>5.72847</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Sedláček, Jaroslav; Chabot, Jean Baptiste</str>
+      <freq>46</freq>
+      <rel>722.00000</rel>
+      <fpm>2.86423</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Bakoš, Ján; Graffin, François; Albert, Micheline; Torbey, Antoine; Séd, Nicolas; Khoury, Joseph</str>
+      <freq>41</freq>
+      <rel>1329.50000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Dolabani, Yuḥanon</str>
+      <freq>38</freq>
+      <rel>856.90000</rel>
+      <fpm>2.36611</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Graffin, François</str>
+      <freq>21</freq>
+      <rel>2252.90000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Khoury, Joseph</str>
+      <freq>12</freq>
+      <rel>1906.00000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Vaschalde, Arthur Adolphe</str>
+      <freq>6</freq>
+      <rel>116.50000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Chabot, Jean Baptiste</str>
+      <freq>6</freq>
+      <rel>32.60000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Brooks, Ernest Walter</str>
+      <freq>5</freq>
+      <rel>32.70000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Sader, Jean</str>
+      <freq>4</freq>
+      <rel>1235.90000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Poirier, Paul-Hubert</str>
+      <freq>4</freq>
+      <rel>1082.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Wright, William</str>
+      <freq>3</freq>
+      <rel>78.60000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Watt, John W.</str>
+      <freq>3</freq>
+      <rel>361.30000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Draguet, René</str>
+      <freq>3</freq>
+      <rel>41.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Torbey, Antoine</str>
+      <freq>2</freq>
+      <rel>865.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Teule, Herman G.B.</str>
+      <freq>2</freq>
+      <rel>442.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Séd, Nicolas</str>
+      <freq>2</freq>
+      <rel>342.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Sachau, Eduard; Lichti, Otto</str>
+      <freq>2</freq>
+      <rel>1188.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Kugener, Marc-Antoine</str>
+      <freq>2</freq>
+      <rel>168.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Connolly, Richard Hugh</str>
+      <freq>2</freq>
+      <rel>50.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Bedjan, Paulus</str>
+      <freq>2</freq>
+      <rel>5.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">===NONE===</str>
+      <freq>2</freq>
+      <rel>7.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Varghese, Baby</str>
+      <freq>1</freq>
+      <rel>1839.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Spanuth, Johannes</str>
+      <freq>1</freq>
+      <rel>265.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Sachau, Eduard</str>
+      <freq>1</freq>
+      <rel>60.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Raabe, Richard</str>
+      <freq>1</freq>
+      <rel>168.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Labourt, Jérôme</str>
+      <freq>1</freq>
+      <rel>215.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Elias, Ghaṭṭās Maqdisī</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Duval, Paul-Rubens; Kugener, Marc-Antoine; Triffaux, Edg.; Guidi, Ignazio; Brière, Maurice; Graffin, François; Lash, Christopher J.A.; Sauget, Joseph-Marie</str>
+      <freq>1</freq>
+      <rel>12.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Duval, Paul-Rubens</str>
+      <freq>1</freq>
+      <rel>11.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Cureton, William</str>
+      <freq>1</freq>
+      <rel>81.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Butts, Aaron Michael; Gross, Simcha</str>
+      <freq>1</freq>
+      <rel>871.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Brière, Maurice; Graffin, François; Lash, Christopher J.A.; Sauget, Joseph-Marie</str>
+      <freq>1</freq>
+      <rel>192.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Brière, Maurice; Graffin, François</str>
+      <freq>1</freq>
+      <rel>15.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Breydy, Michel</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Beulay, Robert</str>
+      <freq>1</freq>
+      <rel>84.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Editor">Amar, Joseph Phillip</str>
+      <freq>1</freq>
+      <rel>138.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.Reference">Vööbus, Arthur, ed. The Synodicon in the West Syrian Tradition. CSCO 367-368, 375-376; Syr. 161-162, 163-164. Leuven: Secrétariat du CorpusSCO, 1975, 1976.</str>
+      <freq>46</freq>
+      <rel>1908.30000</rel>
+      <fpm>2.86423</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Bakoš, Ján; Graffin, François; Albert, Micheline; Torbey, Antoine; Séd, Nicolas; Khoury, Joseph, eds. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Patrologia Orientalis 22.4 [110], 24.3 [118], 27.4 [133], 30.2 [144], 30.4 [146], 31.1 [148], 40.3 [184], 41.3 [188], 43.2 [194]. Paris: Firmin-Didot; Turnhout: Brepols, 1930, 1933, 1957, 1961, 1963, 1964, 1981, 1983, 1985.</str>
+      <freq>41</freq>
+      <rel>1329.50000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Grigorios Bar ʿEbroyo. Mnorath Kudshe (Lamp of the Sanctuary). Edited by Yuḥanon Dolabani. Holland: Bar-Hebraeus Verlag, 1997.</str>
+      <freq>37</freq>
+      <rel>1036.70000</rel>
+      <fpm>2.30384</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Vööbus, Arthur, ed. The Synodicon in the West Syrian Tradition I. CSCO 367-368, Syr. 161-162. Leuven: Secrétariat du CorpusSCO, 1975.</str>
+      <freq>35</freq>
+      <rel>2907.10000</rel>
+      <fpm>2.17931</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Sedláček, Jaroslav and Chabot, Jean Baptiste, eds. Dionysii bar Salibi commentarii in Evangelia. CSCO 15, 77; Syr. III.98 [15], [33]. Paris: E Typographeo Reipublicae, 1906, 1915. Vaschalde, Arthur Adolphe, ed. Dionysii bar Salibi commentarii in Evangelia II. CSCO 95, 113-114; Syr. III.99 [47], [60-61]. Leuven: Secrétariat du CorpusSCO, 1939-1940. Leuven: Secrétariat du CorpusSCO, 1931, 1939-40.</str>
+      <freq>26</freq>
+      <rel>611.20000</rel>
+      <fpm>1.61891</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Graffin, François, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Troisième base: De la théologie. Patrologia Orientalis 27.4 [133]. Paris: Firmin-Didot, 1957.</str>
+      <freq>21</freq>
+      <rel>4145.30000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Sedláček, Jaroslav and Chabot, Jean Baptiste, eds. Dionysii bar Salibi commentarii in Evangelia. CSCO 77 Syr. III.98 [33]. Paris: E Typographeo Reipublicae, 1915.</str>
+      <freq>20</freq>
+      <rel>1628.80000</rel>
+      <fpm>1.24532</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Khoury, Joseph, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Quatrième base: De l’incarnation. Patrologia Orientalis 31.1 [148]. Paris: Firmin-Didot, 1964.</str>
+      <freq>12</freq>
+      <rel>1906.00000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Vööbus, Arthur, ed. The Synodicon in the West Syrian Tradition II. CSCO 375-376, Syr. 163-164. Leuven: Secrétariat du CorpusSCO, 1976.</str>
+      <freq>11</freq>
+      <rel>911.60000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Sader, Jean, ed. Le De Oblatione de Jean de Dara. CSCO 308-309, Syr. 132-133. Leuven: Secrétariat du CorpusSCO, 1970.</str>
+      <freq>4</freq>
+      <rel>1235.90000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Poirier, Paul-Hubert, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Neuvième base: Du libre arbitre. Patrologia Orientalis 43.2 [194]. Turnhout: Brepols, 1985.</str>
+      <freq>4</freq>
+      <rel>1082.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Wright, William, ed. The Book of Kalīlah and Dimnah, Translated from Arabic into Syriac. Oxford: Clarendon Press, 1884.</str>
+      <freq>3</freq>
+      <rel>195.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Watt, John W., ed. The Fifth Book of the Rhetoric of Antony of Tagrit. CSCO 480-481, Syr. 203-204. Leuven: Peeters, 1986.</str>
+      <freq>3</freq>
+      <rel>795.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Vaschalde, Arthur Adolphe, ed. Dionysii bar Salibi: Commentarii in Evangelia II(1). CSCO 95, Syr. III.99 [47]. Leuven: Secrétariat du CorpusSCO, 1931.</str>
+      <freq>3</freq>
+      <rel>258.80000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Vaschalde, Arthur Adolphe, ed. Dionysii bar Salibi Commentarii in Evangelia II (2). CSCO 113-114, Syr. 60-61. Leuven: Secrétariat du CorpusSCO, 1939-1940.</str>
+      <freq>3</freq>
+      <rel>307.00000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Chabot, Jean Baptiste, ed. Chronicon Ad Annum Christi 1234. CSCO 81, 82; Syr. 36, 37. Paris: E Typographeo Reipublicae, 1916, 1920.</str>
+      <freq>3</freq>
+      <rel>89.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Torbey, Antoine, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Cinquième base: Des anges. Patrologia Orientalis 30.4 [146]. Paris: Firmin-Didot, 1963.</str>
+      <freq>2</freq>
+      <rel>865.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Teule, Herman G.B., ed. Gregory Barhebraeus. Ethicon (Mēmrā I). CSCO 534-535, Syr. 218-219. Leuven: Peeters, 1993.</str>
+      <freq>2</freq>
+      <rel>442.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Séd, Nicolas, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Onzième base: Du jugement dernier. Patrologia Orientalis 41.3 [188]. Turnhout: Brepols, 1983.</str>
+      <freq>2</freq>
+      <rel>685.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Lichti, Otto. &amp;quot;Das Sendschreiben des Patriarchen Barschuschan an den Catholicus der Armenier.&amp;quot; Journal of the American Oriental Society 32:3 (1912): 268-342.</str>
+      <freq>2</freq>
+      <rel>1188.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Chabot, Jean Baptiste, ed. Chronicon Ad Annum Christi 1234 Pertinens I: Praemissum Est Chronicon Anonymum Ad A.D. 819 Pertinens Curante Aphram Barsaum. CSCO 81, Syr. 36. Paris: E Typographeo Reipublicae, 1920.</str>
+      <freq>2</freq>
+      <rel>121.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Bedjan, Paulus, ed. Homiliæ S. Isaaci, Syri Antiocheni. Paris/Leipzig: Otto Harrassowitz, 1903.</str>
+      <freq>2</freq>
+      <rel>72.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Varghese, Baby. &amp;quot;Moses bar Kepha Commentary on Baptism.&amp;quot; The Harp 24 (2009): 55-82.</str>
+      <freq>1</freq>
+      <rel>1839.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Spanuth, Johannes, ed. Gregorii Abulfarag bar Ebhraya in Evangelium Matthaei scholia. Göttingen: Dieterichsche Buchhandlung, 1879.</str>
+      <freq>1</freq>
+      <rel>265.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Sachau, Eduard, ed. Inedita Syriaca: Eine Sammlung syrischer Übersetzungen von Schriften griechischer Profanliteratur, mit einem Anhang, aus den Handschriften des Brittischen Museums herausgegeben. Wien: K.K. Hof- und Staatsdruckerei, 1870.</str>
+      <freq>1</freq>
+      <rel>210.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Raabe, Richard, ed. and trans. Petrus der Iberer: ein Charakterbild zur Kirchen und Sittengeschichte des fünften Jahrhunderts: syrische Übersetzung einer um das Jahr 500 verfassten griechischen Biographie. Leipzig: Hinrichs, 1895</str>
+      <freq>1</freq>
+      <rel>168.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Labourt, Jérôme, ed. Dionysius Bar Ṣalībī. Expositio liturgiae. CSCO 13, Syr. II.93. Paris: E Typographeo Reipublicae, 1903.</str>
+      <freq>1</freq>
+      <rel>215.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Kugener, Marc-Antoine, ed. Sévère, patriarche d’Antioche, 512-518: textes syriaques publiés, traduits et annotés. Pt. 1: Vie de Sévère par Zacharie le Scholastique. Patrologia Orientalis 2.1 [6]. Paris: Firmin-Didot, 1904.</str>
+      <freq>1</freq>
+      <rel>261.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Hansbury, Mary T. The Letters of John of Dalyatha. Texts from Christian Late Antiquity 2. Piscataway, NJ: Gorgias, 2006.</str>
+      <freq>1</freq>
+      <rel>193.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Grigorios Bar ʿEbroyo. Mušḥoto. Edited by Yuḥanon Dolabani. Jerusalem: St. Mark's Monastery, 1929.</str>
+      <freq>1</freq>
+      <rel>176.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Elias, Ghaṭṭās Maqdisī. ܒܘܓܢ̈ܐ ܢܒ̈ܗܐ ܘܒܘܚܢ̈ܐ. Aleppo: Mardin Publishing House, 1994.</str>
+      <freq>1</freq>
+      <rel>341.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Duval, Rubens; Kugener, Marc-Antoine; Triffaux, Edg.; Guidi, Ignazio; Brière, Maurice; Graffin, François; Lash, Christopher J.A.; Sauget, Joseph-Marie, eds. Les Homiliae Cathedrales de Sévère d’Antioche: traduction syriaque de Jacques d’Édesse. Patrologia Orientalis 4.1, [15], 8.2 [37], 12.1 [57], 16.5 [81], 20.2 [97], 22.2 [108], 23.1 [112], 25.1 [121], 25.4 [124], 26.3 [127], 29.1 [138], 35.3 [165], 36.1 [167], 36.3 [169], 36.4 [170], 37.1 [171], 38.2 [175]. Paris: Firmin-Didot; Turnhout: Brepols, 1906, 1911, 1915, 1922, 1927, 1929, 1932, 1935, 1943, 1948, 1960, 1969, 1971, 1972, 1974, 1975, 1976.</str>
+      <freq>1</freq>
+      <rel>12.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Duval, Rubens, ed. Lexicon syriacum auctore Hassano bar Bahlule: voces syriacas græcasque cum glossis syriacis et arabicis complectens. Collection orientale 15-17. 3 vols. Paris: E Typographeo Reipublicae, 1888-1901.</str>
+      <freq>1</freq>
+      <rel>14.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Draguet, René, ed. Les formes syriaques de la matière de l’Histoire lausiaque. CSCO 389-390, 398-390; Syr. 169-170, 173-174. Leuven: Secrétariat du CorpusSCO, 1978.</str>
+      <freq>1</freq>
+      <rel>114.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Draguet, René, ed. Les formes syriaques de la matière de l’Histoire lausiaque I: Les manuscrits Édition des pièces liminaires et des ch. 1-19. CSCO 389-390, Syr. 169-170. Leuven: Secrétariat du CorpusSCO, 1978.</str>
+      <freq>1</freq>
+      <rel>153.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Draguet, René, ed. Commentaire anonyme du Livre d’abba Isaïe (fragments). CSCO 336-337, Syr. 150-151. Leuven: Secrétariat du CorpusSCO, 1973.</str>
+      <freq>1</freq>
+      <rel>342.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Cureton, William, ed. The Festal Letters of Athanasius, Discovered in an Ancient Syriac Version. London: Society for the Publication of Oriental Texts, 1848.</str>
+      <freq>1</freq>
+      <rel>149.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Connolly, Richard Hugh, ed. Anonymi auctoris Expositio officiorum ecclesiae Georgio Arbelensi vulgo adscripta. CSCO 64, Syr. 25. Paris: E Typographeo Reipublicae, 1911.</str>
+      <freq>1</freq>
+      <rel>89.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Connolly, Richard Hugh, ed. Anonymi auctoris Expositio officiorum ecclesiae Georgio Arbelensi vulgo adscripta. CSCO 64, 72; Syr. 25, 29. Paris: E Typographeo Reipublicae, 1911, 1913.</str>
+      <freq>1</freq>
+      <rel>50.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Chabot, Jean Baptiste, ed. Anonymi auctoris Chronicon ad annum Christi 1234 pertinens II. CSCO 82, Syr. 37. Paris: E Typographeo Reipublicae, 1916.</str>
+      <freq>1</freq>
+      <rel>58.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Butts, Aaron Michael and Gross, Simcha, eds. and trans. The History of the 'Slave of Christ': From Jewish Child to Christian Martyr. Persian Martyr Acts in Syriac: Text and Translation 6. Piscataway, NJ: Gorgias, 2017.</str>
+      <freq>1</freq>
+      <rel>871.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brooks, Ernest Walter, ed. Vitae virorum apud Monophysitas celeberrimorum. Pars prima. CSCO 7-8 Syr. III.25 [7]. Paris: E Typographeo Reipublicae, 1907.</str>
+      <freq>1</freq>
+      <rel>263.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brooks, Ernest Walter, ed. Historia ecclesiastica Zachariae Rhetori vulgo adscripta. CSCO 83- 84; Syr. III.5-6 [38-39]. Paris: E Typographeo Reipublicae, 1919, 1921.</str>
+      <freq>1</freq>
+      <rel>50.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brooks, Ernest Walter, ed. Historia ecclesiastica Zachariae Rhetori vulgo adscripta II: Accedit Fragmentum Historiae Ecclesiasticae Dionysii Telmahrensis. CSCO 84, Syr. III.5-6 [39]. Paris: E Typographeo Reipublicae, 1921.</str>
+      <freq>1</freq>
+      <rel>107.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brooks, Ernest Walter, ed. A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts. Patrologia Orientalis 12.2 [58], 14.1 [67]. Paris: Firmin-Didot, 1916, 1920.</str>
+      <freq>1</freq>
+      <rel>63.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brooks, Ernest Walter, ed. A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts II. Patrologia Orientalis 14.1 [67]. Paris: Firmin-Didot, 1920.</str>
+      <freq>1</freq>
+      <rel>96.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brière, Maurice; Graffin, François; Lash, Christopher J.A.; Sauget, Joseph-Marie, eds. Les Homiliae Cathedrales de Sévère d’Antioche: traduction syriaque de Jacques d’Édesse. Homélies I à XVII. Patrologia Orientalis 38.2 [175]. Turnhout: Brepols, 1976.</str>
+      <freq>1</freq>
+      <rel>192.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Brière, Maurice; Graffin, François, eds. Sancti Philoxeni episcopi Mabbugensis dissertationes decem de Uno e sancta Trinitate incorporato et passo. II. Dissertationes 3a, 4a, 5a. Patrologia Orientalis 38.3 [176]. Turnhout: Brepols, 1977.</str>
+      <freq>1</freq>
+      <rel>182.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Breydy, Michel, ed. Jean Maron. Exposé de la foi et autres opuscules. CSCO 497-498, Syr. 209-210. Leuven: Secrétariat du CorpusSCO, 1988.</str>
+      <freq>1</freq>
+      <rel>336.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Bedjan, Paulus, ed. Acta Martyrum et Sanctorum: Tomus Quartius. Leipzig: Otto Harrassowitz, 1894.</str>
+      <freq>1</freq>
+      <rel>38.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Bedjan, Paulus, ed. Acta Martyrum et Sanctorum: Tomus Primus. Leipzig: Otto Harrassowitz, 1890.</str>
+      <freq>1</freq>
+      <rel>48.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Ambjörn, Lena. The Life of Severus by Zachariah of Mytilene. Texts from Christian Late Antiquity 9. Piscataway, NJ: Gorgias, 2008. [Kugener, Marc-Antoine, ed. Sévère, patriarche d’Antioche, 512-518: textes syriaques publiés, traduits et annotés. Pt. 1: Vie de Sévère par Zacharie le Scholastique. Patrologia Orientalis 2.1 [6]. Paris: Firmin-Didot, 1903.]</str>
+      <freq>1</freq>
+      <rel>265.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.Reference">Amar, Joseph Phillip, ed. Dionysius bar Ṣalībī. A Response to the Arabs. CSCO 614-615, Syr. 238-239. Leuven: Peeters, 2005.</str>
+      <freq>1</freq>
+      <rel>155.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.UploadDate">November 15, 2019</str>
+      <freq>264</freq>
+      <rel>121.70000</rel>
+      <fpm>16.43821</fpm>
+    </item>
+    <item>
+      <str attribute="doc.UploadDate">April 23, 2021</str>
+      <freq>49</freq>
+      <rel>69.50000</rel>
+      <fpm>3.05103</fpm>
+    </item>
+    <item>
+      <str attribute="doc.UploadDate">-</str>
+      <freq>2</freq>
+      <rel>7.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.UpdateDate">April 23, 2021</str>
+      <freq>264</freq>
+      <rel>121.70000</rel>
+      <fpm>16.43821</fpm>
+    </item>
+    <item>
+      <str attribute="doc.UpdateDate">-</str>
+      <freq>50</freq>
+      <rel>51.80000</rel>
+      <fpm>3.11330</fpm>
+    </item>
+    <item>
+      <str attribute="doc.UpdateDate"></str>
+      <freq>1</freq>
+      <rel>64.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="doc.wordcount">100102</str>
+      <freq>46</freq>
+      <rel>191021907.30000</rel>
+      <fpm>2.86423</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">128058</str>
+      <freq>41</freq>
+      <rel>170258656.50000</rel>
+      <fpm>2.55290</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">148205</str>
+      <freq>37</freq>
+      <rel>153648055.90000</rel>
+      <fpm>2.30384</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">49995</str>
+      <freq>35</freq>
+      <rel>145342755.60000</rel>
+      <fpm>2.17931</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">176646</str>
+      <freq>26</freq>
+      <rel>107968904.10000</rel>
+      <fpm>1.61891</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">21037</str>
+      <freq>21</freq>
+      <rel>87205653.30000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">50991</str>
+      <freq>20</freq>
+      <rel>83053003.20000</rel>
+      <fpm>1.24532</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">26145</str>
+      <freq>12</freq>
+      <rel>49831801.90000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">50107</str>
+      <freq>11</freq>
+      <rel>45679151.70000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">15667</str>
+      <freq>4</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">15350</str>
+      <freq>4</freq>
+      <rel>16610600.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">13440</str>
+      <freq>4</freq>
+      <rel>16610600.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">63819</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">48141</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">40584</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">139622</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">12122</str>
+      <freq>3</freq>
+      <rel>6228975.20000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">9597</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">6988</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">68587</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">18775</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">114587</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">85620</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">82952</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">81581</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">71035</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">65319</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">4765</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">46557</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">43091</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">38649</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">36255</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">327611</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">288092</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">27787</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">27066</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">26770</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">24608</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">23581</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">22786</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">2258</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">21547</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">21468</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">19273</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">15913</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">15734</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">15645</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">12351</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">12167</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">1191</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="doc.wordcount">108155</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="chapter.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="para.name"></str>
+      <freq>313</freq>
+      <rel>12997.80000</rel>
+      <fpm>19.48924</fpm>
+    </item>
+    <item>
+      <str attribute="para.name">32</str>
+      <freq>1</freq>
+      <rel>230702.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="para.name">2</str>
+      <freq>1</freq>
+      <rel>38809.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="title.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="section.name"></str>
+      <freq>275</freq>
+      <rel>11419.80000</rel>
+      <fpm>17.12314</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Eighth Base</str>
+      <freq>15</freq>
+      <rel>62289752.40000</rel>
+      <fpm>0.93399</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Third Base</str>
+      <freq>13</freq>
+      <rel>53984452.10000</rel>
+      <fpm>0.80946</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Ninth Base</str>
+      <freq>5</freq>
+      <rel>20763250.80000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Tenth Base</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Memra 36</str>
+      <freq>1</freq>
+      <rel>2076325.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Memra 20</str>
+      <freq>1</freq>
+      <rel>1038162.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Eleventh Base</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="section.name">Book of Poems</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="verse.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="note.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="book.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="psalm.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="subsection.name"></str>
+      <freq>315</freq>
+      <fpm>19.61377</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="letter.name"></str>
+      <freq>314</freq>
+      <rel>13039.30000</rel>
+      <fpm>19.55151</fpm>
+    </item>
+    <item>
+      <str attribute="letter.name">18</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="page.nr"></str>
+      <freq>40</freq>
+      <rel>1661.10000</rel>
+      <fpm>2.49064</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">402</str>
+      <freq>16</freq>
+      <rel>1476497.80000</rel>
+      <fpm>0.99626</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">401</str>
+      <freq>12</freq>
+      <rel>1186471.50000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">214</str>
+      <freq>8</freq>
+      <rel>299290.10000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">466</str>
+      <freq>6</freq>
+      <rel>778621.90000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">259</str>
+      <freq>6</freq>
+      <rel>276843.30000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">215</str>
+      <freq>6</freq>
+      <rel>230702.80000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">326</str>
+      <freq>5</freq>
+      <rel>284428.10000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">98</str>
+      <freq>4</freq>
+      <rel>101284.20000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">504</str>
+      <freq>4</freq>
+      <rel>519081.30000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">33</str>
+      <freq>4</freq>
+      <rel>79858.70000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">268</str>
+      <freq>4</freq>
+      <rel>182534.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">238</str>
+      <freq>4</freq>
+      <rel>166106.00000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">216</str>
+      <freq>4</freq>
+      <rel>146996.50000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">206</str>
+      <freq>4</freq>
+      <rel>149645.10000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">203</str>
+      <freq>4</freq>
+      <rel>161268.00000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">167</str>
+      <freq>4</freq>
+      <rel>137277.70000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">140</str>
+      <freq>4</freq>
+      <rel>107861.00000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">108</str>
+      <freq>4</freq>
+      <rel>100063.90000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">9</str>
+      <freq>3</freq>
+      <rel>61673.00000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">55</str>
+      <freq>3</freq>
+      <rel>61673.00000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">54</str>
+      <freq>3</freq>
+      <rel>60475.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">29</str>
+      <freq>3</freq>
+      <rel>61068.40000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">242</str>
+      <freq>3</freq>
+      <rel>133956.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">11</str>
+      <freq>3</freq>
+      <rel>59323.60000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">102</str>
+      <freq>3</freq>
+      <rel>72011.30000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">93</str>
+      <freq>2</freq>
+      <rel>50642.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">91</str>
+      <freq>2</freq>
+      <rel>48007.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">89</str>
+      <freq>2</freq>
+      <rel>47189.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">86</str>
+      <freq>2</freq>
+      <rel>45137.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">85</str>
+      <freq>2</freq>
+      <rel>45384.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">80</str>
+      <freq>2</freq>
+      <rel>44177.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">79</str>
+      <freq>2</freq>
+      <rel>45633.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">78</str>
+      <freq>2</freq>
+      <rel>44413.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">72</str>
+      <freq>2</freq>
+      <rel>43256.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">70</str>
+      <freq>2</freq>
+      <rel>43256.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">690</str>
+      <freq>2</freq>
+      <rel>361100.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">614</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">608</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">598</str>
+      <freq>2</freq>
+      <rel>230702.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">596</str>
+      <freq>2</freq>
+      <rel>230702.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">556</str>
+      <freq>2</freq>
+      <rel>244273.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">546</str>
+      <freq>2</freq>
+      <rel>276843.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">538</str>
+      <freq>2</freq>
+      <rel>259540.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">532</str>
+      <freq>2</freq>
+      <rel>244273.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">528</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">524</str>
+      <freq>2</freq>
+      <rel>237294.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">520</str>
+      <freq>2</freq>
+      <rel>237294.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">514</str>
+      <freq>2</freq>
+      <rel>230702.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">506</str>
+      <freq>2</freq>
+      <rel>259540.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">490</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">486</str>
+      <freq>2</freq>
+      <rel>259540.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">48</str>
+      <freq>2</freq>
+      <rel>39549.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">476</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">468</str>
+      <freq>2</freq>
+      <rel>251675.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">414</str>
+      <freq>2</freq>
+      <rel>173027.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">400</str>
+      <freq>2</freq>
+      <rel>176708.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">39</str>
+      <freq>2</freq>
+      <rel>40513.70000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">385</str>
+      <freq>2</freq>
+      <rel>184562.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">356</str>
+      <freq>2</freq>
+      <rel>153801.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">349</str>
+      <freq>2</freq>
+      <rel>153801.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">346</str>
+      <freq>2</freq>
+      <rel>136152.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">330</str>
+      <freq>2</freq>
+      <rel>109280.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">314</str>
+      <freq>2</freq>
+      <rel>109280.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">305</str>
+      <freq>2</freq>
+      <rel>122136.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">295</str>
+      <freq>2</freq>
+      <rel>112233.80000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">292</str>
+      <freq>2</freq>
+      <rel>95463.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">273</str>
+      <freq>2</freq>
+      <rel>103816.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">267</str>
+      <freq>2</freq>
+      <rel>97709.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">266</str>
+      <freq>2</freq>
+      <rel>92281.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">262</str>
+      <freq>2</freq>
+      <rel>88354.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">256</str>
+      <freq>2</freq>
+      <rel>90275.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">255</str>
+      <freq>2</freq>
+      <rel>94378.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">254</str>
+      <freq>2</freq>
+      <rel>89304.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">251</str>
+      <freq>2</freq>
+      <rel>92281.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">244</str>
+      <freq>2</freq>
+      <rel>93318.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">232</str>
+      <freq>2</freq>
+      <rel>79858.70000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">229</str>
+      <freq>2</freq>
+      <rel>84748.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">225</str>
+      <freq>2</freq>
+      <rel>81424.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">219</str>
+      <freq>2</freq>
+      <rel>78351.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">218</str>
+      <freq>2</freq>
+      <rel>76195.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">213</str>
+      <freq>2</freq>
+      <rel>78351.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">208</str>
+      <freq>2</freq>
+      <rel>73498.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">202</str>
+      <freq>2</freq>
+      <rel>72853.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">193</str>
+      <freq>2</freq>
+      <rel>73498.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">188</str>
+      <freq>2</freq>
+      <rel>71597.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">163</str>
+      <freq>2</freq>
+      <rel>66442.40000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">144</str>
+      <freq>2</freq>
+      <rel>53239.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">139</str>
+      <freq>2</freq>
+      <rel>54640.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">137</str>
+      <freq>2</freq>
+      <rel>53582.60000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">120</str>
+      <freq>2</freq>
+      <rel>50642.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">ܩܠܐ</str>
+      <freq>1</freq>
+      <rel>377513.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">ܒܗ</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">97</str>
+      <freq>1</freq>
+      <rel>25792.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">95</str>
+      <freq>1</freq>
+      <rel>25476.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">90</str>
+      <freq>1</freq>
+      <rel>23199.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">8</str>
+      <freq>1</freq>
+      <rel>20557.70000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">65</str>
+      <freq>1</freq>
+      <rel>21405.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">59</str>
+      <freq>1</freq>
+      <rel>21628.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">58</str>
+      <freq>1</freq>
+      <rel>20867.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">502</str>
+      <freq>1</freq>
+      <rel>129770.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">465</str>
+      <freq>1</freq>
+      <rel>153801.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">45</str>
+      <freq>1</freq>
+      <rel>20158.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">283</str>
+      <freq>1</freq>
+      <rel>52565.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">281</str>
+      <freq>1</freq>
+      <rel>53239.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">272</str>
+      <freq>1</freq>
+      <rel>47731.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">26</str>
+      <freq>1</freq>
+      <rel>19136.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">184</str>
+      <freq>1</freq>
+      <rel>34038.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">175</str>
+      <freq>1</freq>
+      <rel>34319.40000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">134</str>
+      <freq>1</freq>
+      <rel>25633.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">13</str>
+      <freq>1</freq>
+      <rel>19774.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="page.nr">103</str>
+      <freq>1</freq>
+      <rel>24571.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="line.nr"></str>
+      <freq>44</freq>
+      <rel>1827.20000</rel>
+      <fpm>2.73970</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">17</str>
+      <freq>22</freq>
+      <rel>2306.90000</rel>
+      <fpm>1.36985</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">12</str>
+      <freq>18</freq>
+      <rel>1630.00000</rel>
+      <fpm>1.12079</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">7</str>
+      <freq>17</freq>
+      <rel>1484.40000</rel>
+      <fpm>1.05852</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">10</str>
+      <freq>16</freq>
+      <rel>1419.30000</rel>
+      <fpm>0.99626</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">16</str>
+      <freq>14</freq>
+      <rel>1458.90000</rel>
+      <fpm>0.87172</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">24</str>
+      <freq>13</freq>
+      <rel>1704.50000</rel>
+      <fpm>0.80946</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">28</str>
+      <freq>12</freq>
+      <rel>2320.60000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">1</str>
+      <freq>12</freq>
+      <rel>1015.50000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">18</str>
+      <freq>11</freq>
+      <rel>1160.30000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">22</str>
+      <freq>10</freq>
+      <rel>1114.00000</rel>
+      <fpm>0.62266</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">11</str>
+      <freq>10</freq>
+      <rel>894.60000</rel>
+      <fpm>0.62266</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">2</str>
+      <freq>9</freq>
+      <rel>769.00000</rel>
+      <fpm>0.56039</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">3</str>
+      <freq>8</freq>
+      <rel>689.20000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">29</str>
+      <freq>8</freq>
+      <rel>1893.90000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">21</str>
+      <freq>8</freq>
+      <rel>870.10000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">19</str>
+      <freq>8</freq>
+      <rel>851.10000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">15</str>
+      <freq>8</freq>
+      <rel>817.00000</rel>
+      <fpm>0.49813</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">8</str>
+      <freq>7</freq>
+      <rel>613.10000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">23</str>
+      <freq>7</freq>
+      <rel>812.50000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">20</str>
+      <freq>7</freq>
+      <rel>751.60000</rel>
+      <fpm>0.43586</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">25</str>
+      <freq>6</freq>
+      <rel>877.50000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">27</str>
+      <freq>5</freq>
+      <rel>856.40000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">13</str>
+      <freq>5</freq>
+      <rel>463.20000</rel>
+      <fpm>0.31133</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">9</str>
+      <freq>4</freq>
+      <rel>352.00000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">5</str>
+      <freq>4</freq>
+      <rel>347.30000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">6</str>
+      <freq>3</freq>
+      <rel>261.10000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">4</str>
+      <freq>2</freq>
+      <rel>173.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">30</str>
+      <freq>2</freq>
+      <rel>686.00000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">26</str>
+      <freq>2</freq>
+      <rel>313.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">14</str>
+      <freq>2</freq>
+      <rel>193.50000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">792</str>
+      <freq>1</freq>
+      <rel>69210.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">780</str>
+      <freq>1</freq>
+      <rel>69210.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">6747</str>
+      <freq>1</freq>
+      <rel>296617.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">659</str>
+      <freq>1</freq>
+      <rel>61979.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">6515</str>
+      <freq>1</freq>
+      <rel>296617.90000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">49</str>
+      <freq>1</freq>
+      <rel>20763.30000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">481</str>
+      <freq>1</freq>
+      <rel>46140.60000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">4476</str>
+      <freq>1</freq>
+      <rel>207632.50000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">2386</str>
+      <freq>1</freq>
+      <rel>122136.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">190</str>
+      <freq>1</freq>
+      <rel>28639.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="line.nr">102</str>
+      <freq>1</freq>
+      <rel>24003.80000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="lemma.headword"></str>
+      <freq>314</freq>
+      <rel>13039.30000</rel>
+      <fpm>19.55151</fpm>
+    </item>
+    <item>
+      <str attribute="lemma.headword">ܣܘܠܘܓܝܣܡܘܣ</str>
+      <freq>1</freq>
+      <rel>2076325.10000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="folio.ref"></str>
+      <freq>304</freq>
+      <rel>12624.10000</rel>
+      <fpm>18.92885</fpm>
+    </item>
+    <item>
+      <str attribute="folio.ref">fol. 28b</str>
+      <freq>6</freq>
+      <rel>24915901.00000</rel>
+      <fpm>0.37360</fpm>
+    </item>
+    <item>
+      <str attribute="folio.ref">fol. 24r</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="folio.ref">Fol. 89b</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="folio.ref">Fol. 19a</str>
+      <freq>1</freq>
+      <rel>830530.00000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="column.ref"></str>
+      <freq>273</freq>
+      <rel>11336.70000</rel>
+      <fpm>16.99860</fpm>
+    </item>
+    <item>
+      <str attribute="column.ref">===NONE===</str>
+      <freq>37</freq>
+      <rel>162935.40000</rel>
+      <fpm>2.30384</fpm>
+    </item>
+    <item>
+      <str attribute="column.ref">col. 2</str>
+      <freq>3</freq>
+      <rel>778621.90000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="column.ref">Col. 2</str>
+      <freq>2</freq>
+      <rel>153801.90000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="volume.nr"></str>
+      <freq>194</freq>
+      <rel>8056.10000</rel>
+      <fpm>12.07959</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">1</str>
+      <freq>40</freq>
+      <rel>5932357.40000</rel>
+      <fpm>2.49064</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">2</str>
+      <freq>34</freq>
+      <rel>4706336.80000</rel>
+      <fpm>2.11704</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">3</str>
+      <freq>24</freq>
+      <rel>7666431.10000</rel>
+      <fpm>1.49438</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">4</str>
+      <freq>15</freq>
+      <rel>6921083.60000</rel>
+      <fpm>0.93399</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">7</str>
+      <freq>4</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">8</str>
+      <freq>2</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.nr">5</str>
+      <freq>2</freq>
+      <rel>2076325.10000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="volume.OriginalVolumeTitle"></str>
+      <freq>194</freq>
+      <rel>8056.10000</rel>
+      <fpm>12.07959</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">The Synodicon in the West Syrian Tradition I</str>
+      <freq>35</freq>
+      <rel>145342755.60000</rel>
+      <fpm>2.17931</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Troisième base: De la théologie</str>
+      <freq>21</freq>
+      <rel>87205653.30000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Dionysii bar Salibi commentarii in Evangelia I, 2</str>
+      <freq>20</freq>
+      <rel>83053003.20000</rel>
+      <fpm>1.24532</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Quatrième base: De l’incarnation</str>
+      <freq>12</freq>
+      <rel>49831801.90000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">The Synodicon in the West Syrian Tradition II</str>
+      <freq>11</freq>
+      <rel>45679151.70000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Neuvième base: Du libre arbitre</str>
+      <freq>4</freq>
+      <rel>16610600.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Commentarii in Evangelia (II.2)</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Commentarii in Evangelia (II.1)</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Onzième base: Du jugement dernier</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Cinquième base: Des anges.</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Chronicon Ad Annum Christi 1234 Pertinens I: Praemissum Est Chronicon Anonymum Ad A.D. 819 Pertinens Curante Aphram Barsaum.</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Les formes syriaques de la matière de l’Histoire lausiaque I: Les manuscrits Édition des pièces liminaires et des ch. 1-19.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Les Homiliae Cathedrales de Sévère d’Antioche: traduction syriaque de Jacques d’Édesse. Homélies I à XVII.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Historia ecclesiastica Zachariae Rhetori vulgo adscripta II: Accedit Fragmentum Historiae Ecclesiasticae Dionysii Telmahrensis.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Anonymi auctoris Expositio officiorum ecclesiae Georgio Arbelensi vulgo adscripta</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">Anonymi auctoris Chronicon ad annum Christi 1234 pertinens II</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.OriginalVolumeTitle">A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts II</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+  <items blockname="">
+    <item>
+      <str attribute="volume.VolumeReference"></str>
+      <freq>194</freq>
+      <rel>8056.10000</rel>
+      <fpm>12.07959</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Vööbus, Arthur, ed. The Synodicon in the West Syrian Tradition I. CSCO 367-368, Syr. 161-162. Leuven: Secrétariat du CorpusSCO, 1975.</str>
+      <freq>35</freq>
+      <rel>145342755.60000</rel>
+      <fpm>2.17931</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Graffin, François, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Troisième base: De la théologie. Patrologia Orientalis 27.4 [133]. Paris: Firmin-Didot, 1957.</str>
+      <freq>21</freq>
+      <rel>87205653.30000</rel>
+      <fpm>1.30758</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Sedláček, Jaroslav and Chabot, Jean Baptiste, eds. Dionysii bar Salibi commentarii in Evangelia. CSCO 77 Syr. III.98 [33]. Paris: E Typographeo Reipublicae, 1915.</str>
+      <freq>20</freq>
+      <rel>83053003.20000</rel>
+      <fpm>1.24532</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Khoury, Joseph, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Quatrième base: De l’incarnation. Patrologia Orientalis 31.1 [148]. Paris: Firmin-Didot, 1964.</str>
+      <freq>12</freq>
+      <rel>49831801.90000</rel>
+      <fpm>0.74719</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Vööbus, Arthur, ed. The Synodicon in the West Syrian Tradition II. CSCO 375-376, Syr. 163-164. Leuven: Secrétariat du CorpusSCO, 1976.</str>
+      <freq>11</freq>
+      <rel>45679151.70000</rel>
+      <fpm>0.68493</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Poirier, Paul-Hubert, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Neuvième base: Du libre arbitre. Patrologia Orientalis 43.2 [194]. Turnhout: Brepols, 1985.</str>
+      <freq>4</freq>
+      <rel>16610600.60000</rel>
+      <fpm>0.24906</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Vaschalde, Arthur Adolphe, ed. Dionysii bar Salibi: Commentarii in Evangelia II(1). CSCO 95, Syr. III.99 [47]. Leuven: Secrétariat du CorpusSCO, 1931.</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Vaschalde, Arthur Adolphe, ed. Dionysii bar Salibi Commentarii in Evangelia II (2). CSCO 113-114, Syr. 60-61. Leuven: Secrétariat du CorpusSCO, 1939-1940.</str>
+      <freq>3</freq>
+      <rel>12457950.50000</rel>
+      <fpm>0.18680</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Torbey, Antoine, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Cinquième base: Des anges. Patrologia Orientalis 30.4 [146]. Paris: Firmin-Didot, 1963.</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Séd, Nicolas, ed. Le Candélabre du Sanctuaire de Grégoire Abou’lfaradj dit Barhebræus. Onzième base: Du jugement dernier. Patrologia Orientalis 41.3 [188]. Turnhout: Brepols, 1983.</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Chabot, Jean Baptiste, ed. Chronicon Ad Annum Christi 1234 Pertinens I: Praemissum Est Chronicon Anonymum Ad A.D. 819 Pertinens Curante Aphram Barsaum. CSCO 81, Syr. 36. Paris: E Typographeo Reipublicae, 1920.</str>
+      <freq>2</freq>
+      <rel>8305300.30000</rel>
+      <fpm>0.12453</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Draguet, René, ed. Les formes syriaques de la matière de l’Histoire lausiaque I: Les manuscrits Édition des pièces liminaires et des ch. 1-19. CSCO 389-390, Syr. 169-170. Leuven: Secrétariat du CorpusSCO, 1978.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Connolly, Richard Hugh, ed. Anonymi auctoris Expositio officiorum ecclesiae Georgio Arbelensi vulgo adscripta. CSCO 64, Syr. 25. Paris: E Typographeo Reipublicae, 1911.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Chabot, Jean Baptiste, ed. Anonymi auctoris Chronicon ad annum Christi 1234 pertinens II. CSCO 82, Syr. 37. Paris: E Typographeo Reipublicae, 1916.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Brooks, Ernest Walter, ed. Historia ecclesiastica Zachariae Rhetori vulgo adscripta II: Accedit Fragmentum Historiae Ecclesiasticae Dionysii Telmahrensis. CSCO 84, Syr. III.5-6 [39]. Paris: E Typographeo Reipublicae, 1921.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Brooks, Ernest Walter, ed. A Collection of Letters of Severus of Antioch from Numerous Syriac Manuscripts II. Patrologia Orientalis 14.1 [67]. Paris: Firmin-Didot, 1920.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+    <item>
+      <str attribute="volume.VolumeReference">Brière, Maurice, Graffin, François, Lash, Christopher J.A. and Sauget, Joseph-Marie, eds. Les Homiliae Cathedrales de Sévère d’Antioche: traduction syriaque de Jacques d’Édesse. Homélies I à XVII. Patrologia Orientalis 38.2 [175]. Turnhout: Brepols, 1976.</str>
+      <freq>1</freq>
+      <rel>4152650.20000</rel>
+      <fpm>0.06227</fpm>
+    </item>
+  </items>
+</frequency>
+</export>
